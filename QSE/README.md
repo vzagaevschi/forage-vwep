@@ -1,2 +1,2 @@
-# Quantium starter repo
-This repo contains everything you need to get started on the program! Good luck!
+# Quantium Software Engineering Virtual Experience Program
+Tasks 1-6
